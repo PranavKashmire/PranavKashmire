@@ -1,6 +1,6 @@
 ![logo](https://github.com/PranavKashmire/PranavKashmire/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Pranav Kashmire</h1>
-<h3 align="center">A passionate software enginner from India</h3>
+<h3 align="center">3rd Year Ai and Data Science Enginnering student</h3>
 <img align="right" alt="coding" width="400" src="https://cdn-images-1.medium.com/v2/resize:fit:669/1*XpdVmHbfJsDzZ_GqmOEIWg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavkashmire&label=Profile%20views&color=0e75b6&style=flat" alt="pranavkashmire" /> </p>
 
