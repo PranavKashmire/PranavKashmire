@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pranav.kashmire09@gmail.com**
 
-- ⚡ Fun fact **I think i am learn anything.**
+- ⚡ Fun fact **I think i can learn anything.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
