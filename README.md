@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavkashmire&label=Profile%20views&color=0e75b6&style=flat" alt="pranavkashmire" /> </p>
 
-- 🌱 I’m currently learning **Data Analysis from Udemy.**
+- 🌱 I’m currently learning **Fresher Job roles.**
 
 - 👨‍💻 All of my projects are available at [the Github repos](the Github repos)
 
