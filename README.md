@@ -1,4 +1,4 @@
-# Hi 👋, I'm Pranav Kashmire
+# 👋, I'm Pranav Kashmire
 
 
 ### Ai/ML / Data Science / Data Analytics
