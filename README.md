@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://pranav-analyze-showcase.vercel.app/](https://pranav-analyze-showcase.vercel.app/)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1j0X1KL_iFyoChI9h61rie5q2jxze3q39/view](https://drive.google.com/file/d/1j0X1KL_iFyoChI9h61rie5q2jxze3q39/view)**
+- 📄 Know about my experiences *([https://drive.google.com/file/d/1j0X1KL_iFyoChI9h61rie5q2jxze3q39/view](https://drive.google.com/file/d/1tF0pnsOHs8Ea6jFF82B4-2ErFjW7yusr/view))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
