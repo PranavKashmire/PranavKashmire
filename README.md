@@ -3,7 +3,7 @@
 
 ### Ai/ML / Data Science / Data Analytics
 
-- 🔭 I'm currently working on **finding Fresher Job roles.**
+- 🔭 I'm currently working as **AI Engineer**
 
 - 📫 How to reach me **pranav.kashmire09@gmail.com**
 
